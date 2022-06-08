@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-##This is hosted on GitHub Pages!
+This is hosted on GitHub Pages!
